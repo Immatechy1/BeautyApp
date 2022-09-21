@@ -605,33 +605,35 @@ li {
 .footer {
   background-color: #ffffff;
   width: 100%;
-  height: 30px;
+  height: 50px;
   padding: 3em;
 }
 
-.footer-box {
+.footer-title{
+  line-height: 10px;
+  font-weight: 300;
+  font-size: 40px;
   color: #e1764c;
   text-align: center;
-  font-size: 35px;
 }
 
 .footer-box-1 {
   display: flex;
-  margin-left: 39%;
+  margin-left: 808px;
 }
 
 .footer-box-img {
-  width: 50px;
-  height: 50px;
-  padding: 15px;
-  margin-left: 2em;
+  width: 40px;
+  height: 40px;
+  padding: 9px;
+  margin: 1em;
   border-radius: 50px;
   background: #e1764c;
 }
 
-.footer-box-2 {
-  font-size: 20px;
-  display: flex;
-  margin-left: 45%;
-  margin-top: 2em;
+.footer-box-3 {
+  font-weight: 300;
+  font-size: 15px;
+  text-align: center;
+  line-height: 18px;
 }
