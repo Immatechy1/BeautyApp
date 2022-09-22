@@ -543,8 +543,12 @@
   margin-left: 3em;
 }
 
-.box {
+.wrapper-6 {
   margin-top: 3em;
+}
+
+.box {
+  margin-top: 1px;
 }
 
 .container-title-6 {
@@ -590,8 +594,13 @@ li {
   border: #ffffff;
 }
 
+.form-box-1{
+  margin-left: 110%;
+  margin-top: 1em;
+}
+
 .primary-btn-6 {
-  margin-top: 35em;
+  margin-top: 3px;
   width: 150px;
   height: 40px;
   font-weight: bold;
@@ -599,7 +608,7 @@ li {
   background: #ffffff;
   border-radius: 5px;
   border: #ffffff;
-  margin-left: 10em;
+  margin-left: 13em;
 }
 
 .footer {
